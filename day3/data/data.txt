@@ -1,0 +1,3 @@
+With this change, the image source attribute will be properly enclosed in double quotes, and the images should display correctly in your HTML table.
+
+Additionally, make sure that the path stored in the $image variable is correct and points to the actual location of the uploaded images on your server. The path should be relative to the location of your HTML file. If the images are not in the correct directory or there's an issue with the path, they won't display. Double-check the path to the images on your server.
